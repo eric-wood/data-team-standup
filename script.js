@@ -9,7 +9,7 @@ const shuffle = array => {
   return array;
 };
 
-const TEAM = shuffle(["Jaime ☀️", "Sena 👨‍🍳✈️", "Bao 🕺", " 😆 Parul 🛵", "Pam 🚐", "🏃‍♂️ Brandon 🍞", "Ken 👋"]);
+const TEAM = shuffle(["☀️ Jaime 👩🏻‍🌾", "Sena 🧆🫧", "🍰 Bao 🕺", " 📖 Parul 🫚", "🚐 Pam 🌳", "🏃‍♂️🚴🏼‍♂️🏊🏻‍♂️ Brandon 🥐", "🍫 Silvina ☕️"]);
 
 const TOTAL_TIME = 120;
 
